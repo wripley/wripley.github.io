@@ -1,0 +1,9 @@
+---
+layout: post
+title: "OOP Last Week"
+---
+Now that the second test has been completed, I have successfully completed OOP. This class had some good and bad things about it, but I think the class overall is excellent. I learned a lot about C++; I would say I am very comfortable with the language, but I wonder what I should pursue in the language now that this class has ended. Perhaps Downing could give some advice on that front, because I am sure some students would love to know more about C++. The tests are reasonable in this class, but some of the homework grading is a bit strict in that you can get severe penalties for minor mistakes when you turn in code. I understand that automating processes require correctness on the part of the student, but it can be stressful as a student knowing you could have done something very minor and lose 20% on a project. However, I think the teaching style and overall personality that Downing has more than makes up for any downfalls the class has. If anyone who is considering taking this class is worried that they do not have experience in C++, I think the pace of the class is at a good rate, making it easy to pick up the language as you go. Furthermore, there are portions of the class which highlight the differences between C++ and Java, so there is a language to compare to early on. Overall, Downing is one of the best teachers that UT CS has, and it would be a mistake for anyone to miss out on his class.
+
+Tip of the week: http://www.wired.com/2015/12/mozilla-is-flailing-when-the-web-needs-it-the-most/
+
+This article discusses some of the issues Mozilla is having in finding an audience as Chrome gains popularity, and their mobile browser is not seeing a significant focus. The company had trouble last year with their upper management moving around, but time will tell where they will be in the future.
